@@ -633,8 +633,6 @@ run_degree_global: degree global_stats_dir global_results_dir
 	done
 
 
-
-# Pulizia dei file oggetto, binari e la cartella results
 clean:
 	@rm -rf *.o builder degree components power_law split_transfers pagerank pagerank_score_global builder_global assortativity_global degree_giant_wcc_components
 	@rm -rf $(RESULTS) $(CHUNKS) $(GRAPHS_DIR)
