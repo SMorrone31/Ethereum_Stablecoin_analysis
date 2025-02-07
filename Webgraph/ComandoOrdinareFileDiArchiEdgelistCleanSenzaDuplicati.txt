@@ -1,0 +1,1 @@
+sort -k1,1n -k2,2n edgelistClean_dai.txt | uniq > edgelistClean_dai_temp.txt && mv edgelistClean_dai_temp.txt edgelistClean_dai.txt
