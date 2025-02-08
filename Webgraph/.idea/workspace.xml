@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -119,7 +122,7 @@
       <workItem from="1730986149135" duration="597000" />
       <workItem from="1731151762227" duration="438000" />
       <workItem from="1731157040927" duration="1219000" />
-      <workItem from="1738921287789" duration="3631000" />
+      <workItem from="1738921287789" duration="3934000" />
     </task>
     <servers />
   </component>
